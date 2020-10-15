@@ -6,7 +6,6 @@ import {BrowserRouter} from "react-router-dom";
 
 import "@ag-grid-enterprise/all-modules/dist/styles/ag-grid.css";
 import "@ag-grid-enterprise/all-modules/dist/styles/ag-theme-alpine.css";
-import "../node_modules/bootstrap/dist/css/bootstrap.css";
 
 import App from "./App";
 
